@@ -65,7 +65,13 @@
   </tr>
 </table>
 
----
+<div align="center" style="margin: 40px 0">
+  <h3>✍️ Хотите оставить отзыв?</h3>
+  
+  [![Leave Feedback](https://img.shields.io/badge/-НАПИСАТЬ_ОТЗЫВ-00C853?style=for-the-badge&logo=googleforms&logoColor=white)](https://forms.gle/your-form-link)
+  
+  <sub>Ваше мнение важно для меня!</sub>
+</div>
 
 ### 🎯 Последние проекты
 
