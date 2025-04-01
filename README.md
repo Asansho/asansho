@@ -1,6 +1,6 @@
 <!-- Фото и основная информация -->
 <div align="center">
-  <img src="https://i.imgur.com/your-photo.jpg" width="200" style="border-radius: 50%"/>
+  <img src="C:\Users\asans\OneDrive\Изображения\1718359543060.jpg" width="200" style="border-radius: 50%"/>
   
   # Алексей Новиков 
   ### 🚀 Frontend Developer | React Specialist
