@@ -2,8 +2,8 @@
 <div align="center">
   <img src="C:\Users\asans\OneDrive\Изображения\1718359543060.jpg" width="200" style="border-radius: 50%"/>
   
-  # Алексей Новиков 
-  ### 🚀 Frontend Developer | React Specialist
+  # Асаншо Мехтаршоевич
+  ### 🚀 Frontend Developer | 
   
   [![Portfolio](https://img.shields.io/badge/-Портфолио-FF4088?style=for-the-badge)](https://your-portfolio.com)
   [![CV](https://img.shields.io/badge/-Скачать_CV-00AB6B?style=for-the-badge)](https://drive.google.com/your-cv)
@@ -13,10 +13,10 @@
 
 ### 📖 Обо мне
 - 💼 5+ лет коммерческого опыта в разработке
-- 🎓 Выпускник Computer Science, МГТУ им. Баумана
-- 🌍 Участвовал в 20+ международных проектах
-- 🧠 Эксперт в области оптимизации производительности
-- 🎯 Люблю сложные задачи и чистый код
+- 🎓 Выпускник МарГУ
+- 🌍 
+- 🧠 
+- 🎯 Люблю сложный и чистый код
 
 ---
 
@@ -77,13 +77,11 @@
 
 #### 1. FinTech Dashboard [▶️](https://example.com)
 ![Project Preview](https://i.imgur.com/project-preview1.gif)
-- Реалтайм аналитика для финансовых операций
-- Технологии: React, TypeScript, D3.js, WebSocket
+
 
 #### 2. E-Learning Platform [▶️](https://example.com)
 ![Project Preview](https://i.imgur.com/project-preview2.gif)
-- Платформа для онлайн обучения с видео-стримингом
-- Технологии: Next.js, NestJS, FFmpeg, Stripe
+
 
 ---
 
