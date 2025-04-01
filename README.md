@@ -1,49 +1,99 @@
-# Привет, меня зовут Алексей Новиков! 👋
-### 💻 Фронтенд-разработчик из Москвы
-
-🚀 Создаю удобные и современные веб-интерфейсы  
-🎨 Страстный поклонник чистой архитектуры и UX/UI дизайна  
-🌱 Постоянно учусь и развиваюсь в мире фронтенда
-
----
-
-### 🛠️ Мой стек технологий
-
-| Категория       | Технологии                                                                                                                                                                                                                                                                                                                                 |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Основные**    | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) |
-| **Стилизация**  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components)                                                                                                              |
-| **Инструменты**  | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)                                                                                                                                          |
+<!-- Фото и основная информация -->
+<div align="center">
+  <img src="https://i.imgur.com/your-photo.jpg" width="200" style="border-radius: 50%"/>
+  
+  # Алексей Новиков 
+  ### 🚀 Frontend Developer | React Specialist
+  
+  [![Portfolio](https://img.shields.io/badge/-Портфолио-FF4088?style=for-the-badge)](https://your-portfolio.com)
+  [![CV](https://img.shields.io/badge/-Скачать_CV-00AB6B?style=for-the-badge)](https://drive.google.com/your-cv)
+</div>
 
 ---
 
-### 🚀 Мои ключевые проекты
-
-1. **E-Commerce Platform** [▶️](https://example.com)  
-   Полнофункциональный интернет-магазин с использованием React, Redux Toolkit и Firebase  
-   `React` `TypeScript` `Redux Toolkit` `Firebase`
-
-2. **Task Management App** [▶️](https://example.com)  
-   Приложение для управления задачами с drag-and-drop интерфейсом  
-   `React` `DnD Kit` `MUI` `WebSocket`
-
-3. **Social Network Analytics** [▶️](https://example.com)  
-   Дашборд для анализа социальных метрик с графиками  
-   `React` `Chart.js` `Express` `MongoDB`
+### 📖 Обо мне
+- 💼 5+ лет коммерческого опыта в разработке
+- 🎓 Выпускник Computer Science, МГТУ им. Баумана
+- 🌍 Участвовал в 20+ международных проектах
+- 🧠 Эксперт в области оптимизации производительности
+- 🎯 Люблю сложные задачи и чистый код
 
 ---
 
-### 📈 Моя статистика GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)](https://github.com/username)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github.com/username)
+### 📊 Статистика работы
+![Work Stats](https://img.shields.io/badge/ПРОЕКТЫ%20ЗАВЕРШЕНЫ-48-00ccff?style=flat-square)
+![Work Stats](https://img.shields.io/badge/КОД%20РЕВЬЮ-1200%20PRs-00ccff?style=flat-square)
+![Work Stats](https://img.shields.io/badge/ОШИБОК%20ИСПРАВЛЕНО-95%25-00ccff?style=flat-square)
 
 ---
 
-### 📫 Как связаться со мной
+### 🛠 Технологический стек
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,nextjs,graphql,sass,tailwind,webpack,jest,git,figma" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/username)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/username)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:example@mail.com)
+---
 
-⭐ Не стесняйтесь заглянуть в мои репозитории и оставить звездочку, если что-то понравится!
+### 🏆 GitHub Статистика
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+  ![Streak](https://streak-stats.demolab.com?user=username&theme=radical)
+
+</div>
+
+---
+
+### 📝 Отзывы клиентов
+<table>
+  <tr>
+    <td width="50%">
+      <blockquote>
+      <i>"Алексей превратил наш сложный проект в произведение искусства. Его внимание к деталям и профессионализм впечатляют!"</i>
+      <br><br>
+      <b>– Иван Петров, CTO TechCorp</b>
+      </blockquote>
+    </td>
+    <td width="50%">
+      <blockquote>
+      <i>"Работа выполнена на 2 недели раньше срока! Самый ответственный разработчик, с которым я работал."</i>
+      <br><br>
+      <b>– Мария Иванова, CEO StartUp Inc</b>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎯 Последние проекты
+
+#### 1. FinTech Dashboard [▶️](https://example.com)
+![Project Preview](https://i.imgur.com/project-preview1.gif)
+- Реалтайм аналитика для финансовых операций
+- Технологии: React, TypeScript, D3.js, WebSocket
+
+#### 2. E-Learning Platform [▶️](https://example.com)
+![Project Preview](https://i.imgur.com/project-preview2.gif)
+- Платформа для онлайн обучения с видео-стримингом
+- Технологии: Next.js, NestJS, FFmpeg, Stripe
+
+---
+
+### 📫 Контакты
+<div align="center">
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
