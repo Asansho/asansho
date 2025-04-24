@@ -1,6 +1,6 @@
 <!-- Фото и основная информация -->
 <div align="center">
-  <img src="https://github.com/Asansho/asansho/blob/main/94347030.jpeg" width="200" style="border-radius: 50"/>
+  <img src="https://github.com/Asansho/asansho/blob/main/94347030.jpeg" width="250"  border-radius: 50%/>
   
   # Асаншо Мехтаршоевич
   ### 🚀 Frontend Developer | 
