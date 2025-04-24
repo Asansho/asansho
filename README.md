@@ -1,6 +1,6 @@
 <!-- Фото и основная информация -->
 <div align="center">
-  <img src="C:\Users\asans\OneDrive\Изображения\1718359543060.jpg" width="200" style="border-radius: 50%"/>
+  <img src="[C:\Users\asans\OneDrive\Изображения\1718359543060.jpg](https://github.com/Asansho/asansho/blob/9f64fd6fe7cb17d69aadaade757f3c947a11f0b9/94347030.jpeg)" width="200" style="border-radius: 50%"/>
   
   # Асаншо Мехтаршоевич
   ### 🚀 Frontend Developer | 
